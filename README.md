@@ -1,8 +1,10 @@
 Interactive-animation
 =====================
 
-描述：收集android上开源的酷炫的交互动画。
+描述：收集android上开源的酷炫的交互动画和视觉效果。
 
+1.交互篇
+2.视觉篇
 
 交互篇
 ------
@@ -34,3 +36,15 @@ DEMO演示：
 ![github](https://camo.githubusercontent.com/d20ac6fb1cb14db4b69ab5e48ebd609aab1f6831/687474703a2f2f6f70656e61706869642e6769746875622e636f6d2f696d616765732f666c6970766965772d686f72697a6f6e74616c2d64656d6f2e676966 "github") 
 ![github](https://camo.githubusercontent.com/c260bd35546a4fa2a7a556bec851294a26639345/687474703a2f2f6f70656e61706869642e6769746875622e636f6d2f696d616765732f666c6970766965772d64656d6f2e676966 "github") 
 
+
+视觉篇
+------
+
+1.android-stackblur
+------
+
+项目介绍：毛玻璃，朦胧美
+
+项目地址：https://github.com/kikoso/android-stackblur  
+DEMO演示：
+![github](https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67 "github")
