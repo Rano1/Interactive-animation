@@ -36,6 +36,17 @@ DEMO演示：
 ![github](https://camo.githubusercontent.com/d20ac6fb1cb14db4b69ab5e48ebd609aab1f6831/687474703a2f2f6f70656e61706869642e6769746875622e636f6d2f696d616765732f666c6970766965772d686f72697a6f6e74616c2d64656d6f2e676966 "github") 
 ![github](https://camo.githubusercontent.com/c260bd35546a4fa2a7a556bec851294a26639345/687474703a2f2f6f70656e61706869642e6769746875622e636f6d2f696d616765732f666c6970766965772d64656d6f2e676966 "github") 
 
+4.SwipeBackLayout
+------
+
+项目介绍：拖动关闭当前活动窗体
+项目地址：https://github.com/Issacw0ng/SwipeBackLayout
+DEMO演示：
+APK：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo
+![github](https://github.com/Issacw0ng/SwipeBackLayout/blob/master/art/screenshot.png?raw=true "github") 
+
+
+
 
 视觉篇
 ------
@@ -48,3 +59,22 @@ DEMO演示：
 项目地址：https://github.com/kikoso/android-stackblur  
 DEMO演示：
 ![github](https://camo.githubusercontent.com/9c26fa38f23bb218558ad1843f59042ae3d90309/68747470733a2f2f7261772e6769746875622e636f6d2f6b696b6f736f2f616e64726f69642d737461636b626c75722f6d61737465722f6172742f73637265656e73686f74312e706e67 "github")
+
+2.BlurEffectForAndroidDesign
+------
+
+项目介绍：实现模糊图形技巧
+
+项目地址：https://github.com/PomepuyN/BlurEffectForAndroidDesign
+DEMO演示：
+![github](https://camo.githubusercontent.com/3ac158c7124d11c098d6ab094cb1d49880fe17c6/68747470733a2f2f6c68362e67677068742e636f6d2f74447951416c41327565714b496474776e38367234334a363456615338472d4263664a7a7177363137664934764938677a364b59326e345654396b6b61386f69707259 "github")
+
+3.Shimmer-android
+------
+
+项目介绍：闪动的文字
+
+项目地址：https://github.com/RomainPiel/Shimmer-android
+DEMO演示：
+http://www.youtube.com/watch?v=7EOsegp4J2o&feature=youtu.be
+![github](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif "github")
