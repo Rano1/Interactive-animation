@@ -51,6 +51,15 @@ APK：https://play.google.com/store/apps/details?id=me.imid.swipebacklayout.demo
 ![github](https://github.com/Issacw0ng/SwipeBackLayout/blob/master/art/screenshot.png?raw=true "github") 
 
 
+5.AndroidImageSlider
+------
+
+项目介绍：一个漂亮的Slider，可以通过自定义达到更好的效果
+项目地址：https://github.com/daimajia/AndroidImageSlider
+DEMO演示：
+APK：https://jumpshare.com/v/PAKDLjG0UYQjCy9bSSdX
+![github](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966 "github") 
+
 
 
 视觉篇
