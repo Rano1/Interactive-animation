@@ -25,8 +25,11 @@ DEMO演示：
 ------
 
 项目介绍：折叠展开点击的ITEM
+
 项目地址：https://github.com/alexvasilkov/FoldableLayout 
+
 DEMO演示：https://play.google.com/store/apps/details?id=com.alexvasilkov.foldablelayout.sample
+
 ![github](https://camo.githubusercontent.com/8b5b0e5a0d87da7e504a91f7c7ae62c68f812196/687474703a2f2f696d672e796f75747562652e636f6d2f76692f2d5f5163574d682d4f35672f302e6a7067 "github")  
 
 
