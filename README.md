@@ -64,6 +64,16 @@ APK：https://jumpshare.com/v/PAKDLjG0UYQjCy9bSSdX
 ![github](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966 "github") 
 
 
+6.Android-ParallaxHeaderViewPager
+------
+项目介绍：栏目展示动画，自动播放，滚动下方列表时候，收缩效果
+项目地址：https://github.com/kmshack/Android-ParallaxHeaderViewPager
+DEMO演示：
+APK：https://play.google.com/store/apps/details?id=com.kmshack.newsstand
+
+![github](https://github.com/kmshack/Android-ParallaxHeaderViewPager/raw/master/screen.png "github") 
+
+
 
 视觉篇
 ------
