@@ -74,6 +74,15 @@ APK：https://play.google.com/store/apps/details?id=com.kmshack.newsstand
 ![github](https://github.com/kmshack/Android-ParallaxHeaderViewPager/raw/master/screen.png "github") 
 
 
+7.FragmentTransactionExtended
+------
+
+项目介绍：
+项目地址：https://github.com/DesarrolloAntonio/FragmentTransactionExtended
+DEMO演示：
+
+![github](https://github.com/DesarrolloAntonio/FragmentTransactionExtended/raw/master/FragmentTransactionExample/cap2.gif "github") 
+
 
 视觉篇
 ------
