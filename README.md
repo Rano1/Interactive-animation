@@ -94,6 +94,18 @@ DEMO演示：
 ![github](https://github.com/dmytrodanylyk/circular-progress-button/raw/master/screenshots/intro.gif "github") 
 
 
+9.floatlabelededittext
+------
+
+项目介绍：简单的实现浮动标签EditText:Android视图使用EditText之上,并提示EditText时填充文本。
+
+项目地址：https://github.com/wrapp/floatlabelededittext
+
+DEMO演示：
+![github](https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966 "github") 
+
+
+
 视觉篇
 ------
 
