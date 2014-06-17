@@ -141,3 +141,15 @@ DEMO演示：
 
 youtube:http://www.youtube.com/watch?v=7EOsegp4J2o&feature=youtu.be
 ![github](https://github.com/RomainPiel/Shimmer-android/raw/master/shimmer.gif "github")
+
+
+4.WizardPager
+------
+
+项目介绍：它提供了一个示例实现的Android手机上安装一个向导界面
+项目地址：https://github.com/TechFreak/WizardPager
+
+DEMO演示：
+
+youtube:http://www.youtube.com/watch?v=7EOsegp4J2o&feature=youtu.be
+![github](https://camo.githubusercontent.com/d1c9284cfff613dcffbdaa4db504c3a7f6cebba3/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d5f2d5376334a33626463632f5564655555446431546a492f414141414141414145456f2f7970726f4a2d4562434a672f773431322d683731362d6e6f2f77697a61726450616765722e706e67 "github")
