@@ -105,6 +105,16 @@ DEMO演示：
 ![github](https://camo.githubusercontent.com/9b15f9bfcdacc9bf053fff9d06e7a91a0d1b5070/687474703a2f2f692e696d6775722e636f6d2f75635264316a6d2e676966 "github") 
 
 
+10.QuickReturn
+------
+
+项目介绍：Showcases QuickReturn view as a header, footer, and both header and footer.
+
+项目地址：https://github.com/lawloretienne/QuickReturn
+
+DEMO演示：
+![github](https://raw.githubusercontent.com/lawloretienne/QuickReturn/master/images/quick_return_demo.gif "github") 
+
 
 视觉篇
 ------
