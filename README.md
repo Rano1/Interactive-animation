@@ -172,3 +172,12 @@ youtube:http://www.youtube.com/watch?v=7EOsegp4J2o&feature=youtu.be
 项目地址：https://github.com/FaizMalkani/FloatingActionButton
 
 DEMO演示：
+
+6.JumpingBeans
+------
+
+项目介绍：跳动的文本
+项目地址：https://github.com/frakbot/JumpingBeans
+
+DEMO演示：
+![github](https://github.com/frakbot/JumpingBeans/raw/master/art/jumpingdots.gif "github")
