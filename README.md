@@ -181,3 +181,4 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://github.com/frakbot/JumpingBeans/raw/master/art/jumpingdots.gif "github")
+![github](https://github.com/frakbot/JumpingBeans/raw/master/art/jumpingword.gif "github")
