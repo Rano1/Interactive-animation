@@ -182,3 +182,13 @@ DEMO演示：
 DEMO演示：
 ![github](https://github.com/frakbot/JumpingBeans/raw/master/art/jumpingdots.gif "github")
 ![github](https://github.com/frakbot/JumpingBeans/raw/master/art/jumpingword.gif "github")
+
+
+7.android_maskable_layout
+------
+
+项目介绍：可屏蔽的布局
+项目地址：https://github.com/christophesmet/android_maskable_layout
+
+DEMO演示：
+![github](https://github.com/christophesmet/android_maskable_layout/raw/master/Screencast.gif "github")
