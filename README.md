@@ -115,6 +115,18 @@ DEMO演示：
 DEMO演示：
 ![github](https://raw.githubusercontent.com/lawloretienne/QuickReturn/master/images/quick_return_demo.gif "github") 
 
+11.VNTNumberPickerPreference
+------
+
+项目介绍：这是一个易于使用的自定义偏好,打开一个对话框中有许多选择。的值被自动保存,你可以设置默认,min -和maxValue方便地在XML。
+
+项目地址：https://github.com/vanniktech/VNTNumberPickerPreference
+
+DEMO演示：
+![github](https://github.com/vanniktech/VNTNumberPickerPreference/raw/master/res/drawable/preview.png "github") 
+
+
+
 
 视觉篇
 ------
