@@ -126,6 +126,17 @@ DEMO演示：
 ![github](https://github.com/vanniktech/VNTNumberPickerPreference/raw/master/res/drawable/preview.png "github") 
 
 
+12.CircularFloatingActionMenu
+------
+
+项目介绍：动画,可定制的圆形浮动菜单为Android,
+
+项目地址：https://github.com/oguzbilgener/CircularFloatingActionMenu
+
+DEMO演示：
+![github](https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/circularfab.gif "github") 
+
+
 
 
 视觉篇
