@@ -137,6 +137,16 @@ DEMO演示：
 ![github](https://github.com/oguzbilgener/CircularFloatingActionMenu/raw/master/assets/circularfab.gif "github") 
 
 
+13.NiftyDialogEffects
+------
+
+项目介绍：Dialog的各种打开动画，Nifty Modal Dialog Effects look like this(Nifty Modal Window Effects)
+
+项目地址：https://github.com/sd6352051/NiftyDialogEffects
+
+DEMO演示：
+![github](https://camo.githubusercontent.com/456687ac516bb07f1076928d635bfddf6b90d5ec/687474703a2f2f696d67302e70682e3132362e6e65742f69433436653162586b55316631724966555a6f3939773d3d2f363539373632303632313938343031393430382e676966 "github") 
+
 
 
 视觉篇
