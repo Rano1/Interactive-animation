@@ -158,6 +158,16 @@ DEMO演示：
 ![github](https://camo.githubusercontent.com/642bd91749dce58abfba00fe1cefdf2cf4213fd3/68747470733a2f2f7261772e6769746875622e636f6d2f62616c7973762f6d6174657269616c2d6d656e752f6d61737465722f6172742f64656d6f2e676966 "github")
 
 
+15.AndroidViewHover
+------
+
+项目介绍：我们需要一个悬停视图,显示菜单,显示消息。
+
+项目地址：https://github.com/daimajia/AndroidViewHover
+
+DEMO演示：
+![github](https://camo.githubusercontent.com/44affb72f0688c213500917009a1680b41492413/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a356969686a746c35673230387a3066326e70642e676966 "github")
+
 
 视觉篇
 ------
