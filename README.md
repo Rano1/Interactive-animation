@@ -168,6 +168,16 @@ DEMO演示：
 DEMO演示：
 ![github](https://camo.githubusercontent.com/44affb72f0688c213500917009a1680b41492413/687474703a2f2f7777322e73696e61696d672e636e2f6d773639302f36313064633033346a7731656a356969686a746c35673230387a3066326e70642e676966 "github")
 
+16.PagedHeadListView
+------
+
+项目介绍：图片轮转切换
+
+项目地址：https://github.com/JorgeCastilloPrz/PagedHeadListView
+
+DEMO演示：
+![github](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview1.gif "github")
+![github](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview3.gif "github")
 
 视觉篇
 ------
