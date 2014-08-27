@@ -255,3 +255,12 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://github.com/christophesmet/android_maskable_layout/raw/master/Screencast.gif "github")
+
+8.activityanimation
+------
+
+项目介绍：Activit之间切换动画
+项目地址：https://github.com/flavienlaurent/activityanimation
+
+DEMO演示：
+youtube:   https://www.youtube.com/watch?v=-E0sc6w_Jck
