@@ -179,7 +179,7 @@ DEMO演示：
 ![github](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview1.gif "github")
 ![github](https://raw.githubusercontent.com/JorgeCastilloPrz/PagedHeadListView/master/app/src/main/res/raw/preview3.gif "github")
 
-16.android-movies-demo
+17.android-movies-demo
 ------
 
 项目介绍：电影列表3级联动，交互
@@ -190,6 +190,17 @@ DEMO演示：
 youtube:  https://www.youtube.com/watch?feature=player_embedded&v=nchbp6pr2tg
 
 ![github](https://camo.githubusercontent.com/17d279cc83b7c0831100dd81d18a809dd0ea26c9/687474703a2f2f696d672e796f75747562652e636f6d2f76692f6e636862703670723274672f302e6a7067 "github")
+
+18.NiftyNotification
+------
+
+项目介绍：提示通知栏的各种动画
+
+项目地址：https://github.com/sd6352051/NiftyNotification
+
+DEMO演示：
+
+![github](https://raw.githubusercontent.com/sd6352051/NiftyNotification/master/screenshot/ss.gif "github")
 
 
 
