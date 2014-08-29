@@ -202,6 +202,16 @@ DEMO演示：
 
 ![github](https://raw.githubusercontent.com/sd6352051/NiftyNotification/master/screenshot/ss.gif "github")
 
+19.SwipeBack
+------
+
+项目介绍：拖动关闭，模范：kicker app（https://play.google.com/store/apps/details?id=com.netbiscuits.kicker）
+
+项目地址：https://github.com/sockeqwe/SwipeBack
+
+DEMO演示：
+
+![github](https://camo.githubusercontent.com/a8ca00fe3f9e4aa65d902ad873c3f7ef77a2b418/687474703a2f2f696d672e796f75747562652e636f6d2f76692f54366d62675f77716c6b632f302e6a7067 "github")
 
 
 视觉篇
