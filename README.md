@@ -230,7 +230,7 @@ DEMO演示：
 21.SnackBar
 ------
 
-项目介绍：类似微信的测拉菜单
+项目介绍：
 
 项目地址：https://github.com/MrEngineer13/SnackBar
 
@@ -341,3 +341,12 @@ DEMO演示：
 ![github](https://github.com/siyamed/android-shape-imageview/raw/master/images/shader-buble.png "github")
 ![github](https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples.png "github")
 
+10.RippleView
+------
+
+项目介绍：认为模仿的连锁反应在单击推出了Android L
+
+项目地址：https://github.com/siriscac/RippleView
+
+DEMO演示：
+![github](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966 "github")
