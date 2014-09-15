@@ -314,3 +314,16 @@ DEMO演示：
 
 DEMO演示：
 youtube:   https://www.youtube.com/watch?v=-E0sc6w_Jck
+
+
+9.android-shape-imageview
+------
+
+项目介绍：提供了一组自定义形状的android imageview组件,和一个框架来定义更多的形状。实现着色器和位图基于掩模图像视图。
+
+项目地址：https://github.com/siyamed/android-shape-imageview
+
+DEMO演示：
+![github](https://github.com/siyamed/android-shape-imageview/raw/master/images/shader-buble.png "github")
+![github](https://github.com/siyamed/android-shape-imageview/raw/master/images/all-samples.png "github")
+
