@@ -240,6 +240,16 @@ DEMO演示：
 
 googleplay:https://play.google.com/store/apps/details?id=com.mrengineer13.snackbar.sample
 
+22.Swipecards
+------
+
+项目介绍：A Tinder-like cards effect as of August 2014. You can swipe left or right to like or dislike the content. The library creates a similar effect to Tinder's swipable cards with Fling animation.
+
+项目地址：https://github.com/Diolor/Swipecards
+
+DEMO演示：
+
+![github](https://github.com/Diolor/Swipecards/raw/master/screenshot.gif "github")
 
 
 
