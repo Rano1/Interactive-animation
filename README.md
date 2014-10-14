@@ -370,3 +370,15 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://raw.githubusercontent.com/markushi/android-ui/master/example-action.gif "github")
+
+12.FlatUI
+------
+
+项目介绍：
+
+项目地址：https://github.com/eluleci/FlatUI
+
+DEMO演示：
+![github](https://camo.githubusercontent.com/590d4a2ac322417b71f83223bd58b83903d58343/68747470733a2f2f7261772e6769746875622e636f6d2f656c756c6563692f466c617455492f6d61737465722f73616d706c652d696d616765732f73686f77636173652e706e67 "github")
+
+![github](https://camo.githubusercontent.com/ae20d6255d273ba92e8957e0b1cd95aab4e67198/68747470733a2f2f7261772e6769746875622e636f6d2f656c756c6563692f466c617455492f6d61737465722f73616d706c652d696d616765732f7468656d65732e706e67 "github")
