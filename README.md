@@ -424,3 +424,14 @@ GooglePlay地址：https://play.google.com/store/apps/details?id=kaichunlin.tran
 ·Interpolator
 ![github](https://github.com/kaichunlin/android-transition/raw/master/github/slideup_default.gif "github")
 ![github](https://github.com/kaichunlin/android-transition/raw/master/github/slideup_anticipate.gif "github")
+
+
+15.CreditCardView
+------
+
+项目介绍：信用卡样式
+
+项目地址：https://github.com/vinaygaba/CreditCardView
+
+DEMO演示：
+![github](https://github.com/vinaygaba/CreditCardView/raw/master/images/Feature%20Image.png "github")
