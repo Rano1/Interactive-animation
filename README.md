@@ -402,3 +402,25 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://camo.githubusercontent.com/10639e803a90fadd751d3683c497c449e2a48339/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3439353739322f73637265656e73686f74732f323031383234392f64726166745f30362e676966 "github")
+
+
+14.android-transition
+------
+
+项目介绍：Android-Transition允许轻松地创建视图转换,对用户输入的响应。图书馆设计足够通用,这样相同的过渡可以应用于不同的UI组件,如Drawer, SlidingUpPanel, ViewPager, ObservableScrollView等等,只要使用适当的适配器。
+
+项目地址：https://github.com/kaichunlin/android-transition
+
+DEMO演示：
+GooglePlay地址：https://play.google.com/store/apps/details?id=kaichunlin.transition.app
+·View and MenuItem Transition：
+
+  view transition
+![github](https://github.com/kaichunlin/android-transition/raw/master/github/slideup_default.gif "github")
+
+  MenuItem transition
+![github](https://github.com/kaichunlin/android-transition/raw/master/github/menu_shrink_and_fade.gif "github")
+
+·Interpolator
+![github](https://github.com/kaichunlin/android-transition/raw/master/github/slideup_default.gif "github")
+![github](https://github.com/kaichunlin/android-transition/raw/master/github/slideup_anticipate.gif "github")
