@@ -263,6 +263,21 @@ DEMO演示：
 
 ![github](https://raw.githubusercontent.com/IkiMuhendis/LDrawer/master/images/animated.gif "github")
 
+
+24.SlidingDeck View
+------
+
+项目介绍：Sliding-deck view for Android offer an intuitive and useful user interface widget. If you like to have a deck of views and don't want complicate your code. Here you have the solution. Lightweight and easy to deploy, Sliding-deck brings full feature widget. Your users will can perform swipe, quick review or stick the elements.
+
+
+项目地址：https://github.com/txusballesteros/sliding-deck
+
+DEMO演示：
+
+![github](https://github.com/txusballesteros/sliding-deck/raw/master/assets/demo.gif "github")
+
+
+
 视觉篇
 ------
 
