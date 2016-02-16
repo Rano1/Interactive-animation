@@ -277,6 +277,20 @@ DEMO演示：
 ![github](https://github.com/txusballesteros/sliding-deck/raw/master/assets/demo.gif "github")
 
 
+25.SearchView
+------
+
+项目介绍：Persistent SearchView Library with history in Material Design. It supports layout like section My apps in Google Play Store. https://www.google.com/design/spec/patterns/search.html.
+
+Material colors in the project: https://gist.github.com/lapism/3b417142300d9dbde3b4
+
+项目地址：https://github.com/lapism/SearchView
+
+DEMO演示：
+
+![github](https://github.com/lapism/SearchView/raw/master/images/image_3.png "github")
+![github](https://github.com/lapism/SearchView/raw/master/images/image_5.png "github")
+![github](https://github.com/lapism/SearchView/raw/master/images/image_6.png "github")
 
 视觉篇
 ------
