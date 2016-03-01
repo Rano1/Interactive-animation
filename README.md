@@ -292,6 +292,20 @@ DEMO演示：
 ![github](https://github.com/lapism/SearchView/raw/master/images/image_5.png "github")
 ![github](https://github.com/lapism/SearchView/raw/master/images/image_6.png "github")
 
+26.SwipeStack
+------
+
+项目介绍：A simple, customizable and easy to use swipeable view stack for Android.
+
+项目地址：https://github.com/flschweiger/SwipeStack
+
+DEMO演示：
+
+![github](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/screen1.png "github")
+![github](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/demo.gif "github")
+![github](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/screen2.png "github")
+
+
 视觉篇
 ------
 
