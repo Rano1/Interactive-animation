@@ -478,3 +478,15 @@ GooglePlay地址：https://play.google.com/store/apps/details?id=kaichunlin.tran
 
 DEMO演示：
 ![github](https://github.com/vinaygaba/CreditCardView/raw/master/images/Feature%20Image.png "github")
+
+
+16.BottomBar
+------
+
+项目介绍：A custom view component that mimicks the new Material Design Bottom Navigation pattern.
+
+项目地址：https://github.com/roughike/BottomBar
+
+DEMO演示：
+![github](https://raw.githubusercontent.com/roughike/BottomBar/master/demo1.gif "github")
+![github](https://raw.githubusercontent.com/roughike/BottomBar/master/demo2.gif "github")
