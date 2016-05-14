@@ -490,3 +490,14 @@ DEMO演示：
 DEMO演示：
 ![github](https://raw.githubusercontent.com/roughike/BottomBar/master/demo1.gif "github")
 ![github](https://raw.githubusercontent.com/roughike/BottomBar/master/demo2.gif "github")
+
+
+17.PullToMakeSoup
+------
+
+项目介绍：Custom animated pull-to-refresh that can be easily added to RecyclerView
+
+项目地址：https://github.com/Yalantis/pull-to-make-soup
+
+DEMO演示：
+![github](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif "github")
