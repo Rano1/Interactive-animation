@@ -501,3 +501,13 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif "github")
+
+18.GifLoadingView
+------
+
+项目介绍：Gif播放加载框
+
+项目地址：https://github.com/Rogero0o/GifLoadingView
+
+DEMO演示：
+![github](https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966 "github")
