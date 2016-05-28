@@ -511,3 +511,25 @@ DEMO演示：
 
 DEMO演示：
 ![github](https://camo.githubusercontent.com/5d60273b50200d40dd0fb3d6e7e2f2283651630d/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f61363935616364656777316633646579737274346767323034733034783137722e676966 "github")
+
+
+19.welcome-android
+------
+
+项目介绍：An easy to use and customizable welcome screen for Android apps.
+
+项目地址：https://github.com/stephentuso/welcome-android
+
+DEMO演示：
+![github](https://raw.githubusercontent.com/stephentuso/welcome-android/master/media/sample-video.gif "github")
+
+
+20.A-MusicView
+------
+
+项目介绍：自定义音乐播放器
+
+项目地址：https://github.com/north2014/A-MusicView
+
+DEMO演示：
+![github](https://github.com/north2014/A-MusicView/raw/master/a.gif "github")
