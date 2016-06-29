@@ -295,15 +295,14 @@ DEMO演示：
 26.SwipeStack
 ------
 
-项目介绍：A simple, customizable and easy to use swipeable view stack for Android.
+项目介绍：Show something like cards with 3 kinds of animations(alldown, updown, updownstack). Two ways to scroll the items:one is scroll normal as listview, other one is scroll to overlap first one.
 
-项目地址：https://github.com/flschweiger/SwipeStack
+项目地址：https://github.com/loopeer/CardStackView
 
 DEMO演示：
 
-![github](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/screen1.png "github")
-![github](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/demo.gif "github")
-![github](https://raw.githubusercontent.com/flschweiger/SwipeStack/master/art/screen2.png "github")
+![github](https://github.com/loopeer/CardStackView/raw/master/screenshot/screenshot2.gif "github")
+
 
 
 视觉篇
